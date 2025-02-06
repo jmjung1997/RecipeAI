@@ -1,2 +1,4 @@
 ['remote "recipai"']
     url = E:/dvc_dataHandsOnRecipe
+['remote "recipeai"']
+    url = E:/dvc_dataHandsOnRecipe
